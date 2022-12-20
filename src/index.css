@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    font-family: 'Quicsand';
+    padding: 5% 20%;
+    overflow:initial;
+}
